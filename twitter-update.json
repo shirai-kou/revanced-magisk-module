@@ -1,6 +1,6 @@
 {
-  "version": "v10.86.0-release.0 (patches dev.6)",
-  "versionCode": 2,
-  "zipUrl": "https://github.com/shirai-kou/revanced-magisk-module/releases/download/2/twitter-revanced-magisk-v10.86.0-release.0-arm64-v8a.zip",
+  "version": "v10.86.0-release.0 (patches dev.7)",
+  "versionCode": 3,
+  "zipUrl": "https://github.com/shirai-kou/revanced-magisk-module/releases/download/3/twitter-revanced-magisk-v10.86.0-release.0-arm64-v8a.zip",
   "changelog": "https://raw.githubusercontent.com/shirai-kou/revanced-magisk-module/update/build.md"
 }
