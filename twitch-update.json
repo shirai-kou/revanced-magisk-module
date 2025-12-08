@@ -1,6 +1,6 @@
 {
-  "version": "v16.9.1 (patches dev.7)",
-  "versionCode": 3,
-  "zipUrl": "https://github.com/shirai-kou/revanced-magisk-module/releases/download/3/twitch-revanced-magisk-v16.9.1-arm64-v8a.zip",
+  "version": "v16.9.1 (patches dev.11)",
+  "versionCode": 4,
+  "zipUrl": "https://github.com/shirai-kou/revanced-magisk-module/releases/download/4/twitch-revanced-magisk-v16.9.1-arm64-v8a.zip",
   "changelog": "https://raw.githubusercontent.com/shirai-kou/revanced-magisk-module/update/build.md"
 }
