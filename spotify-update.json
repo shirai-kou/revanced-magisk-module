@@ -1,6 +1,6 @@
 {
-  "version": "v9.1.6.1145 (patches dev.2)",
-  "versionCode": 12,
-  "zipUrl": "https://github.com/shirai-kou/revanced-magisk-module/releases/download/12/spotify-revanced-magisk-v9.1.6.1145-arm64-v8a.zip",
+  "version": "v9.1.6.1145 (patches dev.3)",
+  "versionCode": 13,
+  "zipUrl": "https://github.com/shirai-kou/revanced-magisk-module/releases/download/13/spotify-revanced-magisk-v9.1.6.1145-arm64-v8a.zip",
   "changelog": "https://raw.githubusercontent.com/shirai-kou/revanced-magisk-module/update/build.md"
 }
