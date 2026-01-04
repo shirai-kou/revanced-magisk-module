@@ -1,6 +1,6 @@
 {
-  "version": "v408.0.0.51.78 (patches dev.6)",
-  "versionCode": 2,
-  "zipUrl": "https://github.com/shirai-kou/revanced-magisk-module/releases/download/2/instagram-revanced-magisk-v408.0.0.51.78-arm64-v8a.zip",
+  "version": "v410.1.0.63.71 (patches dev.7)",
+  "versionCode": 17,
+  "zipUrl": "https://github.com/shirai-kou/revanced-magisk-module/releases/download/17/instagram-revanced-magisk-v410.1.0.63.71-arm64-v8a.zip",
   "changelog": "https://raw.githubusercontent.com/shirai-kou/revanced-magisk-module/update/build.md"
 }

@@ -2,6 +2,7 @@ Facebook: 490.0.0.63.82
 Instagram: 410.1.0.63.71  
 Messenger: 537.0.0.52.109  
 Music: 8.10.52  
+Reddit: 2026.01.0  
 Spotify: 9.1.6.1145  
 Strava: 441.14  
 TikTok: 36.5.4  
