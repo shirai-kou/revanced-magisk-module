@@ -91,9 +91,9 @@ get_prebuilts() {
 			resp=$(gh_req "$rv_rel" -) || return 1
 			tag_name=$(jq -r '.tag_name' <<<"$resp")
 			matches=$(jq -e ".assets | map(select(.name | endswith(\"$ext\")))" <<<"$resp")
-			if [ "$(jq 'length' <<<"$matches")" -ne 1 ]; then
-				epr "More than 1 asset was found for this cli release. Fallbacking to the first one found..."
-			fi
+			# if [ "$(jq 'length' <<<"$matches")" -ne 1 ]; then
+			# 	epr "More than 1 asset was found for this cli release. Fallbacking to the first one found..."
+			# fi
 			asset=$(jq -r ".[0]" <<<"$matches")
 			url=$(jq -r .url <<<"$asset")
 			name=$(jq -r .name <<<"$asset")
