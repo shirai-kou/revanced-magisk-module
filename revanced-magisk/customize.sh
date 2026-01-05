@@ -194,6 +194,10 @@ fi
 
 rm -rf "${MODPATH:?}/bin" "$MODPATH/$PKG_NAME.apk"
 
+MAINTAINER_FILE="$MODPATH/maintainer.txt"
+if [ -f "$MAINTAINER_FILE" ]; then MAINTAINER=$(cat "$MAINTAINER_FILE"); fi
+if [ -z "$MAINTAINER" ]; then MAINTAINER="j-hc (github.com/j-hc)"; fi
+
 ui_print "* Done"
-ui_print "  by j-hc (github.com/j-hc)"
+ui_print "  by $MAINTAINER"
 ui_print " "
