@@ -182,6 +182,10 @@ fi
 rm -rf "${MODPATH:?}/bin" "$MODPATH/stock/"
 cp -f "$MODPATH/module.prop" "$MODPATH/module.prop.orig"
 
-ui_print "* Done. No need to reboot."
-ui_print "  by j-hc (github.com/j-hc)"
+MAINTAINER_FILE="$MODPATH/maintainer.txt"
+if [ -f "$MAINTAINER_FILE" ]; then MAINTAINER=$(cat "$MAINTAINER_FILE"); fi
+if [ -z "$MAINTAINER" ]; then MAINTAINER="j-hc (github.com/j-hc)"; fi
+
+ui_print "* Done"
+ui_print "  by $MAINTAINER"
 ui_print " "
