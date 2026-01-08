@@ -1,6 +1,6 @@
 {
-  "version": "v490.0.0.63.82 (patches dev.8.rvp)",
-  "versionCode": 22,
-  "zipUrl": "https://github.com/shirai-kou/revanced-magisk-module/releases/download/22/facebook-revanced-magisk-v490.0.0.63.82-arm64-v8a.zip",
+  "version": "v490.0.0.63.82 (patches dev.9.rvp)",
+  "versionCode": 25,
+  "zipUrl": "https://github.com/shirai-kou/revanced-magisk-module/releases/download/25/facebook-revanced-magisk-v490.0.0.63.82-arm64-v8a.zip",
   "changelog": "https://raw.githubusercontent.com/shirai-kou/revanced-magisk-module/update/build.md"
 }
