@@ -1,6 +1,6 @@
 {
   "version": "v2026.03.0 (patches dev.2.mpp)",
-  "versionCode": 42,
-  "zipUrl": "https://github.com/shirai-kou/revanced-magisk-module/releases/download/42/reddit-rvx-morphe-magisk-v2026.03.0-arm64-v8a.zip",
+  "versionCode": 43,
+  "zipUrl": "https://github.com/shirai-kou/revanced-magisk-module/releases/download/43/reddit-rvx-morphe-magisk-v2026.03.0-arm64-v8a.zip",
   "changelog": "https://raw.githubusercontent.com/shirai-kou/revanced-magisk-module/update/build.md"
 }

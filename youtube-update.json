@@ -1,6 +1,6 @@
 {
-  "version": "v20.40.45 (patches dev.3.mpp)",
-  "versionCode": 42,
-  "zipUrl": "https://github.com/shirai-kou/revanced-magisk-module/releases/download/42/youtube-morphe-magisk-v20.40.45-arm64-v8a.zip",
+  "version": "v20.40.45 (patches dev.7.mpp)",
+  "versionCode": 43,
+  "zipUrl": "https://github.com/shirai-kou/revanced-magisk-module/releases/download/43/youtube-morphe-magisk-v20.40.45-arm64-v8a.zip",
   "changelog": "https://raw.githubusercontent.com/shirai-kou/revanced-magisk-module/update/build.md"
 }
