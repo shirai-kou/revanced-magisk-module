@@ -1,6 +1,6 @@
 {
-  "version": "v545.0.0.27.62 (patches dev.4.rvp)",
-  "versionCode": 43,
-  "zipUrl": "https://github.com/shirai-kou/revanced-magisk-module/releases/download/43/messenger-revanced-magisk-v545.0.0.27.62-arm64-v8a.zip",
+  "version": "v546.0.0.35.70 (patches dev.5.rvp)",
+  "versionCode": 47,
+  "zipUrl": "https://github.com/shirai-kou/revanced-magisk-module/releases/download/47/messenger-revanced-magisk-v546.0.0.35.70-arm64-v8a.zip",
   "changelog": "https://raw.githubusercontent.com/shirai-kou/revanced-magisk-module/update/build.md"
 }
