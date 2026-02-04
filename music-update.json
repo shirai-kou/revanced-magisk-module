@@ -1,6 +1,6 @@
 {
-  "version": "v8.40.54 (patches dev.4.mpp)",
-  "versionCode": 48,
-  "zipUrl": "https://github.com/shirai-kou/revanced-magisk-module/releases/download/48/music-morphe-magisk-v8.40.54-arm64-v8a.zip",
+  "version": "v8.40.54 (patches dev.10.mpp)",
+  "versionCode": 49,
+  "zipUrl": "https://github.com/shirai-kou/revanced-magisk-module/releases/download/49/music-morphe-magisk-v8.40.54-arm64-v8a.zip",
   "changelog": "https://raw.githubusercontent.com/shirai-kou/revanced-magisk-module/update/build.md"
 }
