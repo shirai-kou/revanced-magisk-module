@@ -1,6 +1,6 @@
 {
-  "version": "v450.9 (patches dev.1.rvp)",
-  "versionCode": 60,
-  "zipUrl": "https://github.com/shirai-kou/revanced-magisk-module/releases/download/60/strava-revanced-magisk-v450.9-arm64-v8a.zip",
+  "version": "v450.9 (patches dev.2.rvp)",
+  "versionCode": 61,
+  "zipUrl": "https://github.com/shirai-kou/revanced-magisk-module/releases/download/61/strava-revanced-magisk-v450.9-arm64-v8a.zip",
   "changelog": "https://raw.githubusercontent.com/shirai-kou/revanced-magisk-module/update/build.md"
 }
